@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ie.atu.week5.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.037 s - in ie.atu.week5.CalculatorTest
