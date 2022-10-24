@@ -15,8 +15,8 @@ class CalculatorTest {
     @Test
     void  testAdd()
     {
-        int a = 2;
-        int b = 2;
+        int a = 1;
+        int b = 1;
         int total = a + b;
         System.out.println("the total is" + total);
     }
