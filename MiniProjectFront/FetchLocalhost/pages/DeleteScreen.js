@@ -7,7 +7,7 @@ const Delete = ({ navigation }) => {
     const deleteAPI = async () => {
       try {
         const res = await fetch(
-          `https://a401-193-1-57-1.ngrok-free.app/deleteSpecificProduct`,
+          `http://54.147.94.149:3000/deleteSpecificProduct`,
           {
             method: 'DELETE',
             headers: {

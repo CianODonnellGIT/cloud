@@ -28,7 +28,7 @@ const EditScreen = ({ navigation }) => {
   const callAPI = async () => {
     try {
       const res = await fetch(
-        `https://a401-193-1-57-1.ngrok-free.app/updateSpecificProduct`,
+        `http://54.147.94.149:3000/updateSpecificProduct`,
         {
           method: 'POST',
           headers: {

@@ -73,7 +73,7 @@ const FetchScreen = ({ navigation }) => {
 
   const callAPI = async () => {
     try {
-      const res = await fetch(`https://a401-193-1-57-1.ngrok-free.app`, {
+      const res = await fetch(`http://54.147.94.149:3000`, {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',
